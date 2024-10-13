@@ -1,5 +1,5 @@
-**FriendZoneChat **
-**Overview**
+##FriendZoneChat 
+
 - FriendZoneChat is a simple C++ console-based application that allows users to:
 - Register and log in.
 - Manage friends by adding or removing them.
@@ -13,9 +13,9 @@
 - Inbox: View past conversations.
 - Data Persistence: Data is stored in text files, including credentials, friend lists, and chats.
 **Files**
-> Database.txt: Stores usernames and passwords.
-> username_friendList.txt: Stores the friend list for each user.
-> user1_user2_chat.txt: Stores chat history between two users.
+- Database.txt: Stores usernames and passwords.
+- username_friendList.txt: Stores the friend list for each user.
+- user1_user2_chat.txt: Stores chat history between two users.
 **How to Use**
 - Sign Up: Create an account with a username and password.
 - Login: Access your account with the credentials.
@@ -24,10 +24,10 @@
 - Inbox: View previous chat conversations with friends.
 - Logout: Securely log out
 **Future Improvements**
-1. Add a feature to remove friends.
-2. Encrypt passwords for security.
-3. Implement a graphical user interface (GUI)
+- Add a feature to remove friends.
+- Encrypt passwords for security.
+- Implement a graphical user interface (GUI)
 **How to Run**
-> cd FriendZoneChat
-> g++ -o FriendZonechat FriendZonechat.cpp
-> ./FriendZonechat
+- cd FriendZoneChat
+- g++ -o FriendZonechat FriendZonechat.cpp
+- ./FriendZonechat
