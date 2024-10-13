@@ -1,4 +1,4 @@
-##FriendZoneChat 
+##FriendZoneChat##
 
 - FriendZoneChat is a simple C++ console-based application that allows users to:
 - Register and log in.
